@@ -7,8 +7,7 @@ Prerequisites:
 
 Steps:
 
-1. Open a terminal (Command Prompt or PowerShell) and navigate to the project root directory:
-   cd c:/Users/Saketh/OneDrive/Desktop/Slant
+1. Open a terminal (Command Prompt or PowerShell) and navigate to the project root directory.
 
 2. Compile the Java source files:
    javac -d out -sourcepath src/main/java src/main/java/slant/Main.java
